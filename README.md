@@ -1,4 +1,4 @@
 # Demo2
 want to learn github
 <br>
-author - Mohith
+author - Mohith Gowda 
